@@ -2,10 +2,8 @@ streamlit
 pandas
 numpy
 plotly
-keras
-scikit-learn
 tensorflow
-gspread
-oauth2client
+scikit-learn
+
 
 
