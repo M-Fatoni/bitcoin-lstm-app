@@ -1,9 +1,11 @@
 streamlit
 pandas
 numpy
+plotly
 keras
 scikit-learn
-plotly
+tensorflow
 gspread
 oauth2client
+
 
